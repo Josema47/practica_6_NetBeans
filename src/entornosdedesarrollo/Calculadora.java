@@ -41,10 +41,9 @@ public class Calculadora {
     public double resta () {
         return (this.num1 - this.num2);
     }
-   /* public double multiplicacion () {
+    public double multiplicacion () {
         return (this.num1 * this.num2);
     }
-*/
     public double division () {
        return (this.num1 / this.num2);
     }
