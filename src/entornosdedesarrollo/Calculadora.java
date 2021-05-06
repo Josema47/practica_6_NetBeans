@@ -33,7 +33,7 @@ public class Calculadora {
         
     }
     
-    // Métodos de funciones de la clase
+     // Métodos de funciones de la clase
     
     public double suma () {
         return (this.num1 + this.num2);
